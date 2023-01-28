@@ -1,1 +1,3 @@
-console.log('my name is Amir')
+console.log('Amir')
+import './main.scss';
+import bootstrap from 'bootstrap'
