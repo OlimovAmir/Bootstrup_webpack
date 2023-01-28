@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/OlimovAmir/Bootstrup_webpack#readme",
   "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
     "sass": "^1.57.1",
