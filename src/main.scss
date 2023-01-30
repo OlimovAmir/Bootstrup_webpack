@@ -1,6 +1,20 @@
 @import "~bootstrap/scss/bootstrap";
 
 .container li {
-    background-color: rgb(197, 223, 136);
+   
     list-style-type: none;
+}
+
+#foto_vector1, #foto_vector2  {
+    max-width: 15px;
+}
+
+.button1 {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+button {
+    width: 100%;
 }
